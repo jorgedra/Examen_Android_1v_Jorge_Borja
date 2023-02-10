@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Examen_1eval_pmdm_Jorge_Borja</string>
+    <string name="botonPrecios">Calcular Precios</string>
+    <string name="titulo">Visita al zoo</string>
+    <string name="textoDia">Elige día</string>
+    <string name="hintSpinner">dias entrada</string>
+    <string name="hint_cantidadEntradas">cantidad de entradas</string>
+    <string name="label2">Entradas disponibles:</string>
+    <string name="botonIrPago">ir a pago</string>
+    <string name="precio_entradas">Precio entradas:</string>
+    <string name="descuento_aplicado">Descuento aplicado:</string>
+    <string name="total">Total:</string>
+    <string name="_0">0</string>
+    <string name="pago">pago</string>
+    <string name="pago_con_tarjeta">Pago con tarjeta</string>
+    <string name="pago_con_paypal">Pago con paypal</string>
+    <string name="comision">Comision:</string>
+    <string name="total_a_pagar">Total a pagar</string>
+    <string name="pagar">Pagar</string>
+    <string name="moneda">Moneda</string>
+    <string-array name="lista_item_spinner">
+        <item>Lunes</item>
+        <item>Martes</item>
+        <item>Miercoles</item>
+        <item>Jueves</item>
+        <item>Viernes</item>
+        <item>Sabado</item>
+        <item>Domingo</item>
+    </string-array>
+</resources>

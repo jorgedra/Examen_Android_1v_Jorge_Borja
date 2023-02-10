@@ -107,6 +107,7 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
         }
         else
         {
+            descuento = 0;
             precioTotal = precioEntradas;
         }
 
